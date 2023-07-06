@@ -39,5 +39,23 @@ For more info about agents, click <a href="https://docs.osticket.com/en/latest/A
 
 ![image](https://github.com/David123890dd/post-install-config/assets/138183500/62cd7d5a-eba8-44b1-bfae-434adf452263)
 
+To create a user, go to Agent panel --> Users --> User Directory --> Add User <br/>
+for more info about Users, click <a href="https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html">here</a>
+
+
+![image](https://github.com/David123890dd/post-install-config/assets/138183500/a3debf15-c965-408d-825e-d3d6e452233a)
+
+To Create an SLA, go to Admin panel --> Manage --> SLA --> Add New SLA Plan
+
+for more info about SLAs, click <a href="https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html">here</a>
+
+![image](https://github.com/David123890dd/post-install-config/assets/138183500/2594c132-0bff-4a25-b579-d82e81534505)
+
+To create help topics, go to Admin panel --> manage --> Help Topics --> Add New Help Topic
+
+for more info about Help Topics, click <a href="https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html">here</a>
+
+
+![image](https://github.com/David123890dd/post-install-config/assets/138183500/c3bc6cb7-b89d-4c49-915b-73ba08c4c206)
 
 
