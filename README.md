@@ -11,49 +11,52 @@
 
 ![image](https://github.com/David123890dd/post-install-config/assets/138183500/5fabb7e0-9d90-4ab8-bc66-725e8b438d4e)
 
-lets name it "Supreme Admin"(you can name it anything) amd go to Permissions 
+<h3>lets name it "Supreme Admin"(you can name it anything) amd go to Permissions </h3>
 
 ![image](https://github.com/David123890dd/post-install-config/assets/138183500/a482997c-0205-46cf-9b3c-8988c25c3739)
 
-Check every box on the "Tickets", "Tasks", and "Knowledgebase". This would mean that any person assigned as this role will be able to do anything. Click Add Role
+<h3>Check every box on the "Tickets", "Tasks", and "Knowledgebase". This would mean that any person assigned as this role will be able to do anything. Click Add Role</h3>
 
 ![image](https://github.com/David123890dd/post-install-config/assets/138183500/7d628ca0-fb4a-4df8-a4f6-ae0d6d79cc64)
 
-to add a department, go to Agents --> Departments --> Add New Department 
+<h3>to add a department, go to Agents --> Departments --> Add New Department </h3>
 
-click <a href="https://docs.osticket.com/en/latest/Admin/Agents/Departments.html">here</a> for more info about departments
+<h3>click <a href="https://docs.osticket.com/en/latest/Admin/Agents/Departments.html">here</a> for more info about departments</h3>
+
 ![image](https://github.com/David123890dd/post-install-config/assets/138183500/7d8d884b-8158-4510-8c9e-aa84f8317f4a)
 
-To make a team, go to Agents --> Teams --> Add New Teams
+<h3>To make a team, go to Agents --> Teams --> Add New Teams</h3>
 
-for more info about teams, click <a href="https://docs.osticket.com/en/latest/Admin/Agents/Teams.html">here</a>
+<h3>for more info about teams, click <a href="https://docs.osticket.com/en/latest/Admin/Agents/Teams.html">here</a></h3>
+
 ![image](https://github.com/David123890dd/post-install-config/assets/138183500/0e53b33f-3738-4e43-8203-0bf1f2bb43b8)
 
-to have users create tickets without the need to sign in, go to settings --> Users --> Uncheck the "Registration required" box
+
+<h3>to have users create tickets without the need to sign in, go to settings --> Users --> Uncheck the "Registration required" box</h3>
 
 ![image](https://github.com/David123890dd/post-install-config/assets/138183500/187ce0ae-7ff9-4a1b-b25d-6f230a0f8ecd)
 
-to create Agents go to Agents --> Add New Agent
+<h3>to create Agents go to Agents --> Add New Agent</h3>
 
-For more info about agents, click <a href="https://docs.osticket.com/en/latest/Admin/Agents/Agents.html">here</a>
+<h3>For more info about agents, click <a href="https://docs.osticket.com/en/latest/Admin/Agents/Agents.html">here</a></h3>
 
 ![image](https://github.com/David123890dd/post-install-config/assets/138183500/62cd7d5a-eba8-44b1-bfae-434adf452263)
 
-To create a user, go to Agent panel --> Users --> User Directory --> Add User <br/>
-for more info about Users, click <a href="https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html">here</a>
+<h3>To create a user, go to Agent panel --> Users --> User Directory --> Add User <br/>
+<h3>for more info about Users, click <a href="https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html">here</a></h3>
 
 
 ![image](https://github.com/David123890dd/post-install-config/assets/138183500/a3debf15-c965-408d-825e-d3d6e452233a)
 
-To Create an SLA, go to Admin panel --> Manage --> SLA --> Add New SLA Plan
+<h3>To Create an SLA, go to Admin panel --> Manage --> SLA --> Add New SLA Plan</h3>
 
-for more info about SLAs, click <a href="https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html">here</a>
+<h3>for more info about SLAs, click <a href="https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html">here</a></h3>
 
 ![image](https://github.com/David123890dd/post-install-config/assets/138183500/2594c132-0bff-4a25-b579-d82e81534505)
 
-To create help topics, go to Admin panel --> manage --> Help Topics --> Add New Help Topic
+<h3>To create help topics, go to Admin panel --> manage --> Help Topics --> Add New Help Topic</h3>
 
-for more info about Help Topics, click <a href="https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html">here</a>
+<h3>for more info about Help Topics, click <a href="https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html">here</a></h3>
 
 
 ![image](https://github.com/David123890dd/post-install-config/assets/138183500/c3bc6cb7-b89d-4c49-915b-73ba08c4c206)
