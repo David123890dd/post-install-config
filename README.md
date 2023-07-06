@@ -61,6 +61,5 @@
 
 ![image](https://github.com/David123890dd/post-install-config/assets/138183500/c3bc6cb7-b89d-4c49-915b-73ba08c4c206)
 
-![image](https://github.com/David123890dd/osticket-prereqs/assets/138183500/ed0ea8be-c243-4ea9-a5fe-a90017b541b3)
 
 
